@@ -1,0 +1,8 @@
+{
+	"n_targets": 326623,
+	"n_bootstraps": 0,
+	"kallisto_version": "0.42.1",
+	"index_version": 9,
+	"start_time": "Tue Dec  8 21:26:04 2015",
+	"call": "./kallisto quant -i trinity -o set0/eo.txt set0/sterno_eo_R1.fq.gz set0/sterno_eo_R2.fq.gz"
+}
